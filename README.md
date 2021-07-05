@@ -1,4 +1,4 @@
-# This is a Vaccines Scheduler made with React and Typescript :)
+# This is a Scheduler made with React and Typescript :)
 
 
 ## To run this project: 
